@@ -5,9 +5,9 @@
         <div class="inner">
           <div class="left wow fadeInLeft" data-wow-duration="1s">
             <p>
-              Developed with love by
-              <a href="https://themeforest.net/user/Codeefly" target="_blank"
-                >Codeefly</a
+              Developed by
+              <a href="https://facebook.com/Xaykham" target="_blank"
+                >Xaykham</a
               >
               &copy; {{ new Date().getFullYear() }}
             </p>
