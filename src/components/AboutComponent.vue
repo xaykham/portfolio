@@ -32,8 +32,8 @@
             <div class="text wow fadeInUp" data-wow-duration="1s">
               <p>
                 Hello there! I'm a web designer, and I'm very passionate and
-                dedicated to my work. With 20 years experience as a professional
-                web developer, I have acquired the skills and knowledge
+                dedicated to my work. With over 10 years experience as a professional
+                graphic designer, I have acquired the skills and knowledge
                 necessary to make your project a success. I enjoy every step of
                 the design process, from discussion and collaboration.
               </p>

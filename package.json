@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "firebase": "^10.14.1",
     "isotope-layout": "^3.0.6",
     "swiper": "^8.1.6",
     "vanilla-tilt": "^1.7.2",
