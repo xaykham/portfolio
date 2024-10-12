@@ -23,7 +23,7 @@
             <div class="text">
               <p>
                 I'm creative designer based in Vientiane, and I'm very passionate
-                and dedicated to my work at LaoVietBank.
+                and dedicated to my work at LaoVietBank for over 10 years.
               </p>
             </div>
             <div class="button">
