@@ -16,7 +16,7 @@
             </div>
             <div class="job">
               <p>
-                A <span class="greenText">Creative Designer</span> From
+                A <span class="greenText">Graphic Designer</span> From
                 <span class="purpleText"> Laos</span>
               </p>
             </div>
