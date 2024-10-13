@@ -3,22 +3,22 @@ name: Firebase Deploy
 on:
   push:
     branches:
-      - main  # Set this to the branch that triggers deployment (e.g., main)
+      - main  # Adjust to your target branch (e.g., main)
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Check out the repository code
+      # Step 1: Check out the repository using v3
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
-      # Step 2: Set up Node.js environment
+      # Step 2: Set up Node.js environment using v3
       - name: Set up Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
-          node-version: '18'  # Adjust the version if needed
+          node-version: '18'  # Adjust to your Node.js version if needed
 
       # Step 3: Install dependencies
       - name: Install dependencies
