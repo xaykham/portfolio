@@ -3,7 +3,7 @@ name: Firebase Deploy
 on:
   push:
     branches:
-      - main  # Set to the branch that triggers deployment (e.g., main)
+      - main  # Set this to the branch that triggers deployment (e.g., main)
 
 jobs:
   build:
@@ -18,17 +18,22 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '18'  # Ensure the version matches your project needs
+          node-version: '18'  # Adjust the version if needed
 
       # Step 3: Install dependencies
       - name: Install dependencies
         run: npm install
 
-      # Step 4: Build your project
+      # Step 4: Install Firebase CLI
+      - name: Install Firebase CLI
+        run: npm install -g firebase-tools
+
+      # Step 5: Build the project
       - name: Build project
         run: npm run build
 
-      # Step 5: Deploy to Firebase Hosting
+
+      # Step 6: Deploy to Firebase Hosting
       - name: Deploy to Firebase Hosting
         run: firebase deploy --only hosting --project xaykham-portfolio
         env:
