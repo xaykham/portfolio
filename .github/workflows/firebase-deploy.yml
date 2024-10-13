@@ -30,6 +30,7 @@ jobs:
 
       # Step 5: Deploy to Firebase Hosting
       - name: Deploy to Firebase Hosting
-        run: firebase deploy --only hosting
+        run: firebase deploy --only hosting --project xaykham-portfolio
         env:
           FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
+
