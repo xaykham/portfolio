@@ -1,7 +1,6 @@
 {
   "hosting": {
     "public": "dist",
-    "site": "xaykhamdesign",
     "ignore": [
       "firebase.json",
       "**/.*",
@@ -9,4 +8,3 @@
     ]
   }
 }
-
