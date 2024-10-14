@@ -20,7 +20,7 @@
                   </div>
                   <div class="short">
                     <h3>Address</h3>
-                    <span>20, Somewhere in world</span>
+                    <span>Sikhottabong, Vientiane Prefecture, Laos</span>
                   </div>
                 </div>
               </li>
@@ -31,7 +31,7 @@
                   </div>
                   <div class="short">
                     <h3>Email</h3>
-                    <span><a href="#">hello@dizme.com</a></span>
+                    <span><a href="#">xaykham@gmail.com</a></span>
                   </div>
                 </div>
               </li>
@@ -42,7 +42,7 @@
                   </div>
                   <div class="short">
                     <h3>Phone</h3>
-                    <span>+123 456 7890</span>
+                    <span>+856 20 2999 5549</span>
                   </div>
                 </div>
               </li>
