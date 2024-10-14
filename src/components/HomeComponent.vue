@@ -33,7 +33,7 @@
               <div class="social">
                 <ul>
                   <li>
-                    <a href="#"><i class="icon-facebook-1"></i></a>
+                    <a href="https://www.facebook.com/Xaykham/" target="_blank"><i class="icon-facebook-1"></i></a>
                   </li>
                   <li>
                     <a href="#"><i class="icon-twitter-1"></i></a>
