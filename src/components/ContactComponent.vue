@@ -26,8 +26,8 @@
               </li>
               <li>
                 <div class="list_inner">
-                  <div class="icon greenBackground">
-                    <i class="icon-mail-1 greenText"></i>
+                  <div class="icon orangeBackground">
+                    <i class="icon-mail-1 orangeText"></i>
                   </div>
                   <div class="short">
                     <h3>Email</h3>
@@ -37,8 +37,8 @@
               </li>
               <li>
                 <div class="list_inner">
-                  <div class="icon purpleBackground">
-                    <i class="icon-phone purpleText"></i>
+                  <div class="icon orangeBackground">
+                    <i class="icon-phone orangeText"></i>
                   </div>
                   <div class="short">
                     <h3>Phone</h3>
