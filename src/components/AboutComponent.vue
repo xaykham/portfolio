@@ -9,7 +9,7 @@
               <div class="numbers year">
                 <div class="wrapper">
                   <h3>
-                    <VueJsCounter end="18"></VueJsCounter>
+                    <VueJsCounter end="11"></VueJsCounter>
                   </h3>
                   <span class="name">Years of<br />Success</span>
                 </div>
@@ -17,7 +17,7 @@
               <div class="numbers project">
                 <div class="wrapper">
                   <h3 style="display: flex">
-                    <VueJsCounter as="span" end="9"></VueJsCounter>K
+                    <VueJsCounter as="span" end="40"></VueJsCounter>
                   </h3>
                   <span class="name">Total<br />Projects</span>
                 </div>

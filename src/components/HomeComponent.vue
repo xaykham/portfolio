@@ -17,7 +17,7 @@
             <div class="job">
               <p>
                 A <span class="greenText">Graphic Designer</span> From
-                <span class="purpleText"> Laos</span>
+                <span class="greenText2"> Laos</span>
               </p>
             </div>
             <div class="text">

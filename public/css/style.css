@@ -333,7 +333,7 @@ h6 { font-size: 16px; }
 .dizme_tm_mobile_menu .download_cv a{
 	color: #fff !important;
 	border-radius: 50px;
-	background-color: #f75023;
+	background-color: #ff0000;
 	padding: 7px 40px !important;
 }
 .dizme_tm_mobile_menu .hamburger-inner, 
@@ -396,10 +396,10 @@ h6 { font-size: 16px; }
 	margin-right: 0px;
 }
 .dizme_tm_header .menu ul li.current a{
-	color: #f75023;
+	color: #ff0000;
 }
 .dizme_tm_header .menu ul li a:hover{
-	color: #f75023;
+	color: #ff0000;
 }
 .dizme_tm_header .menu ul li a{
 	text-decoration: none;
@@ -418,7 +418,7 @@ h6 { font-size: 16px; }
 	top: 3px;
 }
 .dizme_tm_header .download_cv a{
-	border: 2px solid #f75023;
+	border: 2px solid #ff0000;
 	border-radius: 50px;
 	padding: 8px 35px 7px 35px;
 	position: relative;
@@ -440,7 +440,7 @@ h6 { font-size: 16px; }
 	position: absolute;
 	content: "";
 	z-index: 0;
-	background-color: #f75023;
+	background-color: #ff0000;
 	left: -5px;
 	right: -5px;
 	bottom: -5px;
@@ -465,7 +465,7 @@ h6 { font-size: 16px; }
 
 .greenText{color: #1cbe59 !important;}
 .purpleText{color: #8067f0 !important;}
-.orangeText{color: #f75023 !important;}
+.orangeText{color: #ff0000 !important;}
 .yellowText{color: #f0c45c !important;}
 
 .orangeBackground{background-color: #fedfd7 !important;}
@@ -548,7 +548,7 @@ h6 { font-size: 16px; }
 	font-family: 'Jost', sans-serif;
 	font-weight: 500;
 	border-radius: 50px;
-	border: 2px solid #f75023;
+	border: 2px solid #ff0000;
 	padding: 14px 48px 13px 48px;
 	position: relative;
 	overflow: hidden;
@@ -567,7 +567,7 @@ h6 { font-size: 16px; }
 	position: absolute;
 	content: "";
 	z-index: 0;
-	background-color: #f75023;
+	background-color: #ff0000;
 	left: -5px;
 	right: -5px;
 	bottom: -5px;
@@ -855,7 +855,7 @@ h6 { font-size: 16px; }
 	color: #1cbe59;
 }
 .dizme_tm_about .numbers.project h3{
-	color: #6e50f0;
+	color: #ff0000;
 }
 .dizme_tm_about .numbers .wrapper .name{
 	font-size: 21px;
@@ -874,7 +874,7 @@ h6 { font-size: 16px; }
 }
 .dizme_tm_about .right .title span{
 	display: inline-block;
-	color: #f75023;
+	color: #ff0000;
 	font-size: 24px;
 	font-weight: 500;
 	font-family: 'Jost', sans-serif;
@@ -927,7 +927,7 @@ h6 { font-size: 16px; }
 .dizme_tm_main_title span{
 	font-size: 24px;
 	font-weight: 500;
-	color: #f75023;
+	color: #ff0000;
 	font-family: 'Jost', sans-serif;
 	display: inline-block;
 	margin-bottom: 6px;
@@ -982,10 +982,10 @@ h6 { font-size: 16px; }
 	        transition: all .3s ease;
 }
 .dizme_tm_portfolio .portfolio_filter ul li a.current{
-	color: #f75023;
+	color: #ff0000;
 }
 .dizme_tm_portfolio .portfolio_filter ul li a:hover{
-	color: #f75023;
+	color: #ff0000;
 }
 .dizme_tm_portfolio .portfolio_list{
 	width: 100%;
@@ -1433,7 +1433,7 @@ h6 { font-size: 16px; }
 	right: 100%;
 	bottom: -2px;
 	transition: all 2s cubic-bezier(0.165, 0.840, 0.440, 1.000);  /* IE 10+ */
-	color: #f75023;
+	color: #ff0000;
 	font-size: 16px;
 	font-family: 'Jost', sans-serif;
 }
@@ -1557,7 +1557,7 @@ h6 { font-size: 16px; }
 }
 .dizme_tm_services .service_list .price span{
 	font-size: 24px;
-	color: #f75023;
+	color: #ff0000;
 }
 .dizme_tm_services .service_list .icon{
 	position: absolute;
@@ -1652,7 +1652,7 @@ h6 { font-size: 16px; }
 }
 .dizme_tm_modalbox .service_popup_informations .main_title span span{
 	font-size: 24px;
-    color: #f75023;
+    color: #ff0000;
 }
 .dizme_tm_modalbox .service_popup_informations .descriptions{
 	width: 100%;
@@ -1724,7 +1724,7 @@ h6 { font-size: 16px; }
 .dizme_tm_testimonials .icon .svg{
 	width: 65px;
 	height: 65px;
-	color: #f75023;
+	color: #ff0000;
 }
 .dizme_tm_testimonials .text{
 	margin-bottom: 51px;
@@ -1770,7 +1770,7 @@ h6 { font-size: 16px; }
 .dizme_tm_testimonials .owl-theme .owl-dots .owl-dot span{
 	width: 15px;
 	height: 15px;
-	background-color: #f75023;
+	background-color: #ff0000;
 	position: relative;
 	margin: 0px 12px;
 }
@@ -2083,7 +2083,7 @@ h6 { font-size: 16px; }
 }
 .dizme_tm_news ul li .details .category a{
 	font-size: 16px;
-	color: #f75023;
+	color: #ff0000;
 	font-family: 'Jost', sans-serif;
 	text-decoration: none;
 	font-weight: 500;
@@ -2106,7 +2106,7 @@ h6 { font-size: 16px; }
 	        transition: all .3s ease;
 }
 .dizme_tm_news ul li .details .title a:hover{
-	color: #f75023;
+	color: #ff0000;
 }
 .dizme_tm_news .news_hidden_details{
 	display: none;
@@ -2281,7 +2281,7 @@ h6 { font-size: 16px; }
 	font-size: 18px;
 	text-transform: capitalize;
 	font-weight: 500;
-	background-color: #f75023;
+	background-color: #ff0000;
 	padding: 0px 35px;
 }
 
@@ -2353,7 +2353,7 @@ h6 { font-size: 16px; }
 	        transition: all .3s ease;
 }
 .dizme_tm_contact .left .short a:hover{
-	color: #f75023;
+	color: #ff0000;
 }
 .dizme_tm_contact .right{
 	width: 50%;
@@ -2493,7 +2493,7 @@ input[type=number] {
 	        transition: all .3s ease;
 }
 .dizme_tm_copyright .left a:hover{
-	color: #f75023;
+	color: #ff0000;
 }
 .dizme_tm_copyright .right ul{
 	margin: 0px;
@@ -2518,7 +2518,7 @@ input[type=number] {
 	        transition: all .3s ease;
 }
 .dizme_tm_copyright .right ul li a:hover{
-	color: #f75023;
+	color: #ff0000;
 }
 
 /*---------------------------------------------------*/
@@ -2541,7 +2541,7 @@ input[type=number] {
   width: 6px;
   height: 6px;
   z-index: 100;
-  background-color: #f75023;
+  background-color: #ff0000;
   -webkit-transition: width .3s ease-in-out, height .3s ease-in-out, margin .3s ease-in-out, opacity .3s ease-in-out;
   transition: width .3s ease-in-out, height .3s ease-in-out, margin .3s ease-in-out, opacity .3s ease-in-out;
 }
@@ -2550,7 +2550,7 @@ input[type=number] {
   margin-top: -40px;
   width: 80px;
   height: 80px;
-  background-color: #f75023;
+  background-color: #ff0000;
   opacity: .3;
 }
 .cursor-outer {
@@ -2558,7 +2558,7 @@ input[type=number] {
   margin-top: -15px;
   width: 30px;
   height: 30px;
-  border: 2px solid #f75023;
+  border: 2px solid #ff0000;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   z-index: 100;
