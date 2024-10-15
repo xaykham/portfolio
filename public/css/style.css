@@ -638,6 +638,11 @@ h6 { font-size: 16px; }
 	bottom: 60px;
 	left: 140px;
 }
+.dizme_tm_hero .skills.indesign{
+	background-color: #49021F;
+	bottom: 60px;
+	left: 190px;
+}
 .dizme_tm_hero .skills .svg{
 	position: absolute;
 	top: 50%;
@@ -651,6 +656,9 @@ h6 { font-size: 16px; }
 }
 .dizme_tm_hero .skills.photoshop .svg{
 	color: #00a9ff;
+}
+.dizme_tm_hero .skills.indesign .svg{
+	color: #FF3366;
 }
 .dizme_tm_down{
 	position: absolute;

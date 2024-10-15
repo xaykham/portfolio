@@ -56,6 +56,7 @@
                 v-html="ai"
               ></span>
               <span class="skills photoshop anim_moveBottom" v-html="ps"></span>
+              <span class="skills indesign anim_moveBottom" v-html="idd"></span>
               <span class="skills figma anim_moveBottom" v-html="figma"></span>
             </div>
           </div>
@@ -70,11 +71,11 @@
 </template>
 
 <script>
-import { ai, figma, mouse, mouseDark, ps } from "../svg";
+import { ai, figma, mouse, mouseDark, ps, idd } from "../svg";
 export default {
   name: "HomeComponent",
   data() {
-    return { ai, ps, figma, mouse, mouseDark };
+    return { ai, ps, figma, mouse, mouseDark, idd };
   },
   props: {
     dark: { type: Boolean },
