@@ -57,7 +57,7 @@
               ></span>
               <span class="skills photoshop anim_moveBottom" v-html="ps"></span>
               <span class="skills indesign anim_moveBottom" v-html="idd"></span>
-              <span class="skills figma anim_moveBottom" v-html="figma"></span>
+              <!-- <span class="skills figma anim_moveBottom" v-html="figma"></span> -->
             </div>
           </div>
         </div>
