@@ -9,21 +9,19 @@
         <div class="content">
           <div class="details">
             <div class="hello">
-              <h3 class="orangeText">Hello, I'm</h3>
+              <h3 class="orangeText">Bold Designs for </h3>
             </div>
             <div class="name">
-              <h3>Xaykham Inthavong</h3>
+              <h3>Modern Brands.</h3>
             </div>
             <div class="job">
               <p>
-                A <span class="greenText">Graphic Designer</span> From
-                <span class="greenText2"> Laos</span>
+                I’m Xaykham, a <span class="greenText">Graphic Designer</span>
               </p>
             </div>
             <div class="text">
               <p>
-                I'm creative designer based in Vientiane, and I'm very passionate
-                and dedicated to my work at LaoVietBank for more than 10 years.
+                Who loves creating visually impactful designs. From branding to web design, I help businesses stand out with unique and tailored creative solutions.
               </p>
             </div>
             <div class="button">
@@ -36,13 +34,13 @@
                     <a href="https://www.facebook.com/Xaykham/" target="_blank"><i class="icon-facebook-1"></i></a>
                   </li>
                   <li>
-                    <a href="#"><i class="icon-twitter-1"></i></a>
+                    <a href="https://x.com/xaykham" target="_blank"><i class="icon-twitter-1"></i></a>
                   </li>
                   <li>
-                    <a href="#"><i class="icon-linkedin-1"></i></a>
+                    <a href="https://www.linkedin.com/in/xaykham" target="_blank"><i class="icon-linkedin-1"></i></a>
                   </li>
                   <li>
-                    <a href="#"><i class="icon-behance"></i></a>
+                    <a href="https://www.behance.net/xaykham" target="_blank"><i class="icon-behance"></i></a>
                   </li>
                 </ul>
               </div>
