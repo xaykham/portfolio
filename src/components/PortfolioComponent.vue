@@ -4,10 +4,9 @@
       <div class="container">
         <div class="dizme_tm_main_title" data-align="center">
           <span>Portfolio</span>
-          <h3>My Amazing Works</h3>
+          <h3>Design That Captures Attention.</h3>
           <p>
-            Most common methods for designing websites that work well on desktop
-            is responsive and adaptive design
+            Explore my portfolio to see a range of projects that showcase how I bring brands to life through creative, thoughtful design.
           </p>
         </div>
         <div class="portfolio_filter">

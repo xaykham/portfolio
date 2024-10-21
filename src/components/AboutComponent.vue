@@ -26,16 +26,20 @@
           </div>
           <div class="right">
             <div class="title wow fadeInUp" data-wow-duration="1s">
-              <span>I'm a Designer</span>
-              <h3>I Can Design Anything You Want</h3>
+              <span>Hi, I’m Xaykham</span>
+              <h3>Your Partner in Creative Design.</h3>
             </div>
             <div class="text wow fadeInUp" data-wow-duration="1s">
               <p>
-                Hello there! I'm a web designer, and I'm very passionate and
-                dedicated to my work. With over 10 years experience as a professional
-                graphic designer, I have acquired the skills and knowledge
-                necessary to make your project a success. I enjoy every step of
-                the design process, from discussion and collaboration.
+                With a passion for design and a commitment to bringing fresh ideas to life, I’m here to help your brand make a lasting impression. Whether you’re looking to develop a new identity or revamp your digital presence, I combine strategy, creativity, and technical skills to deliver results that matter.
+              </p>
+            </div>
+            <div class="title wow fadeInUp" data-wow-duration="1s">
+              <h4>What Drives My Work</h4>
+            </div>
+            <div class="text wow fadeInUp" data-wow-duration="1s">
+              <p>
+                I believe great design tells a story and connects people. My goal is to help you share your story with clarity and creativity, making your brand both memorable and meaningful.
               </p>
             </div>
             <div class="dizme_tm_button wow fadeInUp" data-wow-duration="1s">

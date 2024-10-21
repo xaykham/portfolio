@@ -107,15 +107,12 @@
                 width="100%"
                 height="375"
                 id="gmap_canvas"
-                src="https://maps.google.com/maps?q=2880%20Broadway,%20New%20York&t=&z=13&ie=UTF8&iwloc=&output=embed"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d869.400563930107!2d102.53575834535164!3d17.988649628621815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x312469024745f2b9%3A0x7edb13c72487a9d9!2z4LqK4Lqy4LqN4LqE4LuN4LqyIOC6reC6reC6geC7geC6muC6miBHcmFwaGljIERlc2lnbg!5e0!3m2!1sen!2sla!4v1729516575669!5m2!1sen!2sla"
                 frameborder="0"
                 scrolling="no"
                 marginheight="0"
                 marginwidth="0"
-              ></iframe
-              ><a
-                href="https://www.embedgooglemap.net/blog/divi-discount-code-elegant-themes-coupon"
-              ></a>
+              ></iframe>
             </div>
           </div>
 

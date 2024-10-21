@@ -24,9 +24,15 @@
                 Who loves creating visually impactful designs. From branding to web design, I help businesses stand out with unique and tailored creative solutions.
               </p>
             </div>
+            <div class="job">
+              <p>
+                Discover my work <br>
+                and see how we can make your brand shine.
+              </p>
+            </div>
             <div class="button">
               <div class="dizme_tm_button">
-                <a class="anchor" href="#about"><span>About Me</span></a>
+                <a class="anchor" href="#portfolio"><span>Explore My Portfolio</span></a>
               </div>
               <div class="social">
                 <ul>

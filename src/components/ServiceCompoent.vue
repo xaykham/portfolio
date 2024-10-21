@@ -4,10 +4,9 @@
       <div class="container">
         <div class="dizme_tm_main_title" data-align="center">
           <span>Services</span>
-          <h3>What I Do for Clients</h3>
+          <h3>Design Services Built Around Your Needs.</h3>
           <p>
-            Most common methods for designing websites that work well on desktop
-            is responsive and adaptive design
+            I offer a wide range of graphic design services to help you express your brand and engage your audience.
           </p>
         </div>
         <div class="service_list">
